@@ -92,3 +92,7 @@ body{
 .card4 img{
     border: 2px solid   hsla(263, 82%, 75%, 0.981);
 }
+
+.card{
+    margin: 0 auto;
+}
